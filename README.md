@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zenn</h1>
 <h3 align="center">I'm Student Not Web Developer</h3>
 
-- 👯 I’m looking to collaborate on [Portfolio](https://zentod.github.io/portfolio/)
-
-- 👨‍💻 All of my projects are available at [https://zentod.github.io/portfolio/](https://zentod.github.io/portfolio/)
-
-- 📫 How to reach me **todzen2@gmail.com**
-
-- ⚡ Fun fact **I think I'm funny :v**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/awoked99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="awoked99" height="30" width="40" /></a>
