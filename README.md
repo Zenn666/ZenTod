@@ -6,6 +6,9 @@
 <a href="https://codepen.io/awoked99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="awoked99" height="30" width="40" /></a>
 <a href="https://instagram.com/nal.jnl99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nal.jnl99" height="30" width="40" /></a>
 <a href="http://wa.me/6281390607435" class="about__social-icon"><i class='bx bxl-whatsapp' ></i></a>
+
+<link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
