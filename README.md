@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zenn</h1> 
 <h3 align="center">I'm Student Not Web Developer</h3> <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/awoked99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="awoked99" height="30" width="40" /></a>
 <a href="https://instagram.com/nal.jnl99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nal.jnl99" height="30" width="40" /></a>
 </p>
