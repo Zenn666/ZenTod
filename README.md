@@ -5,7 +5,7 @@
 </p><h3 align="center">Connect with me :</h3>
 <p align="center">
 <a href="https://instagram.com/nal.jnl99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nal.jnl99" height="30" width="40" /></a>
-<a href="http://wa.me/6281390607435" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wa_me" height="30" width="40" /></a>
+<a href="http://wa.me/6281230987025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="wa_me" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools :</h3>
