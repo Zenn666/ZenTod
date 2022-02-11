@@ -25,7 +25,7 @@ console.log(zenAjg())
 ```
 ____
 <details>
-<summary>Statistic</summary>
+<summary>Information</summary>
 
 > Languages 
 
