@@ -1,8 +1,4 @@
-&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;
-____
-<details>
-<p>
-<summary>About Me...</summary>
+> About Me
 
 ```js
 async function zenAjg() {
