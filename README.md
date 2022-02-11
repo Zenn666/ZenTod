@@ -35,7 +35,7 @@ ____
 
 <p align="center"></a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a></p>
 
-> Github Statistic
+> Github Statistics
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenn666&" alt="zenn666" /></p>
 </details>
