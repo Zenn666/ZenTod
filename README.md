@@ -23,5 +23,3 @@ async function zenAjg() {
 }
 console.log(zenAjg())
 ```
-</details>
-____
