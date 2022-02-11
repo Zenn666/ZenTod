@@ -1,4 +1,5 @@
-## About Me
+# About Me
+```js
 async function zenAjg() {
   return new Promise(async(resolve, reject) => {
     try {
@@ -20,3 +21,4 @@ async function zenAjg() {
   })
 }
 console.log(zenAjg())
+```
