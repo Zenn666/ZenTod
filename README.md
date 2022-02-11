@@ -1,5 +1,4 @@
-## About Me
-```js
+# About Me
 async function zenAjg() {
   return new Promise(async(resolve, reject) => {
     try {
@@ -17,8 +16,7 @@ async function zenAjg() {
         }
       }
       resolve(data)
-    } catch (e) {}
+    } catch (err) {reject(err)}
   })
 }
 console.log(zenAjg())
-```
