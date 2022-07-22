@@ -14,7 +14,7 @@ async function zenAjg() {
         },
         social: {
           instagram: "https://instagram.com/_znzn11",
-          whatsapp: "https://wa.me/628123098xxxx"
+          whatsapp: "https://wa.me/6281230987025"
         }
       }
       resolve(data)
