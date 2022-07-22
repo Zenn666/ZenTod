@@ -29,7 +29,7 @@ ____
 
 > Languages 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zenn666&show_icons=true&locale=en&layout=compact" alt="zenn666" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zexyzx&show_icons=true&locale=en&layout=compact" alt="zexyzx" /></p>
 
 > Tools
 
@@ -37,7 +37,7 @@ ____
 
 > Github Statistics
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zenn666&" alt="zenn666" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zexyzx&" alt="zexyzx" /></p>
 </details>
 
 ____
