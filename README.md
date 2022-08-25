@@ -9,7 +9,7 @@ async function zenAjg() {
         bio: {
           fullName: "Muhammad Zainal Arifin",
           hobby: "Turu",
-          age: "18",
+          age: "19",
           region: "Pasuruan - Jatim"
         },
         social: {
