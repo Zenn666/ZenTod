@@ -13,8 +13,8 @@ async function zenAjg() {
           region: "Pasuruan - Jatim"
         },
         social: {
-          instagram: "https://instagram.com/_znzn11",
-          whatsapp: "https://wa.me/6281230987025"
+          instagram: "https://instagram.com/idungmampettt",
+          whatsapp: "https://wa.me/628123098xxxx"
         }
       }
       resolve(data)
